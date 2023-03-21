@@ -8,4 +8,8 @@
 it's OK,
 your are very good!
 8888888
+<<<<<<< HEAD
 00000000
+=======
+99999999
+>>>>>>> file1
