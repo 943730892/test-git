@@ -1,0 +1,4 @@
+#! /bin/bash 
+wetqr
+fadsaf
+34554
